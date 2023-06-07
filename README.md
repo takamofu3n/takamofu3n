@@ -3,13 +3,17 @@
 
 <img src="https://64.media.tumblr.com/311f9cb8711429a21d434450b712e0ee/5c6d7e532d7659a9-79/s1280x1920/f6c4ef9af1af143ca59099c073ae34fe3e39ffbf.gifv" >
 
-**Github stats**
+**Github Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takamofu3n&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
+**Leetcode Stats**
 
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=dizzybae&cn=true)
 
+**Streak Stats**
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=takamofu3n&theme=blood&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&border_radius=1&locale=ja&hide_longest_streak=true)](https://git.io/streak-stats)
 
 **Currently working with:**
 
@@ -28,15 +32,25 @@
 <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
 <a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
 
- **Quotes**
+<br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=We%20shall%20meet%20in%20the%20place%20where%20there%20is%20no%20darkness&author=George%20Orwell)](https://github.com/piyushsuthar/github-readme-quotes)
+……
+
+<br>
+
+*We shall meet in the place where there is no darkness.*
+
+
+<!--  **Quotes**
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=We%20shall%20meet%20in%20the%20place%20where%20there%20is%20no%20darkness&author=George%20Orwell)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <!--
 
 github stats:https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 stats theme:https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
+streak stats:https://streak-stats.demolab.com/demo/
 
 2000s:https://www.tumblr.com/tagged/early%20web?sort=top
 
