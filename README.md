@@ -1,6 +1,15 @@
-### Hi there 👋
+### ^^
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takamofu3n&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&quote=We%20shall%20meet%20in%20the%20place%20where%20there%20is%20no%20darkness&author=George%20Orwell)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
+
+github stats:https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
+stats theme:https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+
+
 **takamofu3n/takamofu3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
