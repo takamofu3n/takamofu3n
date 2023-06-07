@@ -9,7 +9,7 @@
 
 **Leetcode Stats**
 
-![力扣数据](https://stats.justsong.cn/api/leetcode?username=dizzybae&cn=true)
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=takamofu3n&cn=true)
 
 **Streak Stats**
 
