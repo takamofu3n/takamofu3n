@@ -3,9 +3,9 @@
 
 <img src="https://64.media.tumblr.com/311f9cb8711429a21d434450b712e0ee/5c6d7e532d7659a9-79/s1280x1920/f6c4ef9af1af143ca59099c073ae34fe3e39ffbf.gifv" >
 
-**Github Stats**
+<!-- **Github Stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takamofu3n&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takamofu3n&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
 
 **Leetcode Stats**
 
