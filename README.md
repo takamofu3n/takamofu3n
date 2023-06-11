@@ -37,8 +37,10 @@
 ……
 
 <br>
+<div style="text_decoration:none">
 
-*We shall meet in the place where there is no darkness.*
+<!-- *We shall meet in the place where there is no darkness.* -->
+<a href="https://takamofu.cn" title="?" style="text_decoration:none" >We shall meet in the place where there is no darkness.</a>
 
 
 <!--  **Quotes**
